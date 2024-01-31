@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [IT Recruiting](www.linkedin.com/in/paola-p-753b271b1)
 
-- 🌱 I’m currently learning **Java, Js, PHP, SQL...**
+- 🌱 I’m currently learning **Java, CSS, HTML , Js, PHP, SQL...**
 
 - 👯 I’m looking to collaborate on **Front and Back Projects**
 
