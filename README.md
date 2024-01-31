@@ -1,4 +1,3 @@
-### Hi there 👋
 
 <h1 align="center">Hi 👋, I'm Paola Peiró</h1>
 <h3 align="center">A passionate Recruiter IT and Full Stack Developer 👌Student from Spain</h3>
