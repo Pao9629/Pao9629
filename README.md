@@ -11,9 +11,9 @@
 
 - 🤝 I’m looking for help with **Front End Projects**
 
-- 👨‍💻 All of my projects are available at [https://github.com/Pao9629/FrontEndProjects](https://github.com/Pao9629/FrontEndProjects)
+- 👨‍💻 All of my projects are available at my Github or Netlify PaoDev96
 
-- 📝 I regularly write articles on [Suscribirte en LinkedIn https://www.linkedin.com/build-relation/newsletter-follow?entityUrn=7048931278401773568](Suscribirte en LinkedIn https://www.linkedin.com/build-relation/newsletter-follow?entityUrn=7048931278401773568)
+- 📝 I regularly write articles on Linkedin by my Newsletter.
 
 - 💬 Ask me about **HTML or CSS**
 
