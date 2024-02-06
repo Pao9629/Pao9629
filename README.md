@@ -1,4 +1,5 @@
-![Captura de pantalla 2024-02-06 095910](https://github.com/Pao9629/Pao9629/assets/135324055/04399474-3bf2-4821-9eaa-d7a0478614d9)
+
+![Uploading White Minimalist Corporate Business Personal Profile LinkedIn Banner (1).png…]()
 
 <h1 align="center">A passionate Recruiter IT and DAM Developer Student</h1>
 
