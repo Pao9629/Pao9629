@@ -2,6 +2,9 @@
 <h1 align="center">Hi 👋, I'm Paola Peiró</h1>
 <h3 align="center">A passionate Recruiter IT and Full Stack Developer 👌Student from Spain</h3>
 
+![Captura de pantalla 2024-02-06 095910](https://github.com/Pao9629/Pao9629/assets/135324055/04399474-3bf2-4821-9eaa-d7a0478614d9)
+
+
 - 🔭 I’m currently working on [IT Recruiting](www.linkedin.com/in/paola-p-753b271b1)
 
 - 🌱 I’m currently learning **Java, CSS, HTML , Js, PHP, SQL...**
