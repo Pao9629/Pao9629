@@ -3,7 +3,7 @@
 <h1 align="center">A passionate Recruiter IT and DAM Developer Student</h1>
 
 
-- 🔭 I’m currently working on [IT Recruiting](www.linkedin.com/in/paola-p-753b271b1)
+- 🔭 I’m currently working on IT Recruiting
 
 - 🌱 I’m currently learning **Java, CSS, HTML , Js, PHP, SQL...**
 
