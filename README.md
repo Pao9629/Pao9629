@@ -28,7 +28,7 @@
 
 - 💬 Ask me about **HTML or CSS**
 
-- 📄 Know about my experiences and 📫 how to reach me**www.linkedin.com/in/paola-p-753b271b1**
+- 📄 Know about my experiences and 📫 how to reach me **www.linkedin.com/in/paola-p-753b271b1**
 
 - ⚡ Fun fact **I think I'm constant**
 
