@@ -57,7 +57,7 @@
 
 - 📫 How to reach me **www.linkedin.com/in/paola-p-753b271b1**
 
-- 📄 Know about my experiences [www.linkedin.com/in/paola-p-753b271b1](www.linkedin.com/in/paola-p-753b271b1)
+- 📄 Know about my experiences **www.linkedin.com/in/paola-p-753b271b1**
 
 - ⚡ Fun fact **I think I'm constant**
 
