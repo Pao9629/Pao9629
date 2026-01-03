@@ -1,6 +1,6 @@
 ![FOTO](https://github.com/Pao9629/Pao9629/assets/135324055/d1811736-b4de-4278-a0e7-fa54430ff70b)
 
-<h1 align="center">A passionate Recruiter IT and DAM Developer Student</h1>
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
