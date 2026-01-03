@@ -12,8 +12,6 @@
 
 - 🔭 I’m currently working on IT Recruiting
 
-- 🌱 I’m currently learning **Java, CSS, HTML , Js, PHP, SQL...**
-
-- 👯 I’m looking to collaborate on **Front and Back Projects**
+- 🌱 I’m currently learning 
 
 
